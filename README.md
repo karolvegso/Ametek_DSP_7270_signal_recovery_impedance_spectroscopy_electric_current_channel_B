@@ -1,0 +1,2 @@
+# Ametek_DSP_7270_signal_recovery_impedance_spectroscopy_electric_current_channel_B
+Ametek_DSP_7270_signal_recovery - read electric current as a function of frequency, channel B
